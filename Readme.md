@@ -1,7 +1,6 @@
 <details>
     <summary>娱乐</summary>
         <div><a href="https://www.bilibili.com">哔哩哔哩</a></div>
-        <div><a href="https://wiki.biligame.com/cq/首页">克鲁赛德战记</a></div>
 </details> 
 <details>
     <summary>投资</summary>
@@ -19,6 +18,18 @@
         <div><a href="http://www.iwencai.com/stockpick/index">数据 - i问财</a></div>
         <div><a href="https://legulegu.com/">数据 - 乐咕乐股</a></div>
         <div><a href="https://wglh.com/">数据 - 乌龟量化</a></div>
+</details> 
+<details>
+    <summary>iOS</summary>
+</details> 
+<details>
+    <summary>游戏开发</summary>
+    <div><a href="https://godotengine.org/">Godot官网</a></div>
+    <div><a href="https://docs.godotengine.org/en/stable/">Godot官方文档</a></div>
+</details> 
+<details>
+    <summary>学习</summary>
+        <div><a href="https://dictionary.cambridge.org/">英语 - Dictionary</a></div>
 </details> 
 <details>
     <summary>其他</summary>
