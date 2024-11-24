@@ -26,10 +26,17 @@
     <summary>游戏开发</summary>
     <div><a href="https://godotengine.org/">Godot官网</a></div>
     <div><a href="https://docs.godotengine.org/en/stable/">Godot官方文档</a></div>
+    <div><a href="https://www.blender.org/">Blender官网</a></div>
 </details> 
 <details>
     <summary>学习</summary>
         <div><a href="https://dictionary.cambridge.org/">英语 - Dictionary</a></div>
+</details> 
+<details>
+    <summary>软件</summary>
+        <div><a href="https://steampp.net/">Watt Toolkit</a></div>
+        <div><a href="https://www.neatdownloadmanager.com/index.php/en/">NeatDownloadManager</a></div>
+        <div><a href="https://www.tbtool.cn/">图吧工具箱</a></div>
 </details> 
 <details>
     <summary>其他</summary>
